@@ -1,0 +1,3 @@
+C:/Users/w0465310/OneDrive - Nova Scotia Community College/2ndSemester/Prog2007/Assignments/Assign05/cmake-build-debug/CMakeFiles/ASSIGN5.dir
+C:/Users/w0465310/OneDrive - Nova Scotia Community College/2ndSemester/Prog2007/Assignments/Assign05/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/w0465310/OneDrive - Nova Scotia Community College/2ndSemester/Prog2007/Assignments/Assign05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
